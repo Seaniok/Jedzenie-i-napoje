@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Jedzenie_i_napoje>
+    <Jedzenie>
+        <Frytki>
+           <Czy_ciepłe>Tak</Czy_ciepłe>
+           <Koszt>Średni</Koszt>
+           <Smak>Dobry</Smak>
+           <Czy_zdrowe>Nie</Czy_zdrowe>
+        </Frytki>
+        <Makaron_Carbonara>
+            <Czy_ciepłe>Tak</Czy_ciepłe>
+            <Koszt>Wysoki</Koszt>
+            <Smak>Bardzo dobry</Smak>
+            <Czy_zdrowe>Tak</Czy_zdrowe>
+        </Makaron_Carbonara>
+        <Kukurydza>
+            <Czy_ciepłe>Nie</Czy_ciepłe>
+            <Koszt>Niski</Koszt>
+            <Smak>Niski</Smak>
+            <Czy_zdrowe>Tak</Czy_zdrowe>
+        </Kukurydza>
+    </Jedzenie>
+    <Napoje>
+        <Woda>
+            <Czy_ciepłe>Tak</Czy_ciepłe>
+            <Koszt>Niski</Koszt>
+            <Smak>Niski</Smak>
+            <Czy_zdrowe>Tak</Czy_zdrowe>
+        </Woda>
+        <Cola>
+            <Czy_ciepłe>Nie</Czy_ciepłe>
+            <Koszt>Wysoki</Koszt>
+            <Smak>Bardzo dobry</Smak>
+            <Czy_zdrowe>Nie</Czy_zdrowe>
+        </Cola>
+        <Lemoniada>
+            <Czy_ciepłe>Nie</Czy_ciepłe>
+            <Koszt>Średni</Koszt>
+            <Smak>Dobry</Smak>
+            <Czy_zdrowe>Tak</Czy_zdrowe>
+        </Lemoniada>
+    </Napoje>
+</Jedzenie_i_napoje>
