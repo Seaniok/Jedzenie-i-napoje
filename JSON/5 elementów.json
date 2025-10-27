@@ -1,0 +1,116 @@
+[
+    {
+        "Nazwa jedzenia": "Burger",
+        "Koszt produktu(zł)": [
+            20,
+            50
+        ],
+        "Składniki": [
+            "Mięso wołowe",
+            "Bułka",
+            "Warzywa",
+            "Sosy"
+        ],
+        "Amerykańskie danie": true,
+        "Najlepsza burgerownia": "Awionetka"
+    },
+    {
+        "Nazwa jedzenia": "Buritto",
+        "Koszt produktu(zł)": [
+            40,
+            60
+        ],
+        "Składniki": [
+            "Szarpane mięso",
+            "Tortilla",
+            "Warzywa",
+            "Salsa"
+        ],
+        "Meskykańskie danie": true,
+        "Mało ostre?": false
+    },
+    {
+        "Nazwa jedzenia": "Ramen",
+        "Koszt produktu(zł)": [
+            40,
+            60
+        ],
+        "Składniki": [
+            "Makaron",
+            "Bulion",
+            "Glony",
+            "Jajko"
+        ],
+        "Japońska zupa": true,
+        "Najlepsza knajpa": "Akita Ramen"
+    },
+    {
+        "Nazwa jedzenia": "Pizza",
+        "Koszt produktu(zł)": [
+            30,
+            60
+        ],
+        "Składniki": [
+            "Ciasto",
+            "Mięso",
+            "Sos pomidorowy",
+            "Ser"
+        ],
+        "Włoskie danie": true,
+        "Najlepsze Da Grasso?": false
+    },
+    {
+        "Nazwa jedzenia": "Kurczak",
+        "Koszt produktu(zł)":  [
+            15,
+            30
+        ],
+        "Rodzaje kurczaka": [
+            "Stripsy",
+            "Skrzydełka",
+            "Nóżki",
+            "Udka"
+        ],
+        "Najlepszy fastfood": "KFC",
+        "Czy można jeść kurczaka w Indiach?": false
+    },
+    {
+        "Nazwa picia": "Smoothie",
+        "Koszt napoju(zł)": [
+            10,
+            25
+        ],
+        "Składniki": [
+            "Banany",
+            "Pomarańcze",
+            "Truskawki",
+            "Jagody"
+        ],
+        "Zdrowy napój?": true,
+        "Najlepsza pora na smoothie": "lato"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
