@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Jedzenie_i_napoje>
+    <Jedzenie>
+        <Frytki>
+           <Czy_ciepłe Jak="Mocno" Czy_parzy_w_język="Nie">Tak</Czy_ciepłe>
+           <Koszt kraj_kupna="Polska" miejsce="Sklep spożywczy" >Średni</Koszt>
+           <Smak Siła="Wysoki" Gryzienie="Łatwe">Dobry</Smak>
+           <Czy_zdrowe Max_kalorie_by_zdrowe="1000" stan="Całość">Nie</Czy_zdrowe >
+        </Frytki>
+        <Makaron_Carbonara>
+            <Czy_ciepłe Jak="Mocno" Czy_parzy_w_język="Nie">Tak</Czy_ciepłe>
+            <Koszt kraj_kupna="Polska" miejsce="Sklep spożywczy" >Wysoki</Koszt>
+            <Smak Siła="Wysoki" Gryzienie="Łatwe">Bardzo dobry</Smak>
+            <Czy_zdrowe Max_kalorie_by_zdrowe="1000" stan="Całość">Tak</Czy_zdrowe>
+        </Makaron_Carbonara>
+        <Kukurydza>
+            <Czy_ciepłe Jak="Mocno" Czy_parzy_w_język="Nie">Nie</Czy_ciepłe>
+            <Koszt kraj_kupna="Polska" miejsce="Sklep spożywczy" >Niski</Koszt>
+            <Smak Siła="Wysoki" Gryzienie="Łatwe">Niski</Smak>
+            <Czy_zdrowe Max_kalorie_by_zdrowe="1000" stan="Całość">Tak</Czy_zdrowe>
+        </Kukurydza>
+    </Jedzenie>
+    <Napoje>
+        <Woda>
+            <Czy_ciepłe Jak="Mocno" Czy_parzy_w_język="Nie">Tak</Czy_ciepłe>
+            <Koszt kraj_kupna="Polska" miejsce="Sklep spożywczy" >Niski</Koszt>
+            <Smak Siła="Wysoki" Gryzienie="Łatwe">Niski</Smak>
+            <Czy_zdrowe Max_kalorie_by_zdrowe="1000" stan="Całość">Tak</Czy_zdrowe>
+        </Woda>
+        <Cola>
+            <Czy_ciepłe Jak="Mocno" Czy_parzy_w_język="Nie">Nie</Czy_ciepłe>
+            <Koszt kraj_kupna="Polska" miejsce="Sklep spożywczy" >Wysoki</Koszt>
+            <Smak Siła="Wysoki" Gryzienie="Łatwe">Bardzo dobry</Smak>
+            <Czy_zdrowe Max_kalorie_by_zdrowe="1000" stan="Całość">Nie</Czy_zdrowe>
+        </Cola>
+        <Lemoniada>
+            <Czy_ciepłe Jak="Mocno" Czy_parzy_w_język="Nie">Nie</Czy_ciepłe>
+            <Koszt kraj_kupna="Polska" miejsce="Sklep spożywczy">Średni</Koszt>
+            <Smak Siła="Wysoki" Gryzienie="Częste">Dobry</Smak>
+            <Czy_zdrowe Max_kalorie_by_zdrowe="1000" stan="Całość">Tak</Czy_zdrowe>
+    </Napoje>
+</Jedzenie_i_napoje>
