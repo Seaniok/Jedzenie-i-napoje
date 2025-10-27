@@ -1,0 +1,26 @@
+[
+    {
+        "Nazwa": "Pizza",
+        "Ilość Kawałków": 8,
+        "Zimna": false,
+        "Ciepła": true,
+        "Pizzernie": [
+            "Pizza Hut",
+            "Da Grasso",
+            "Dominos",
+            "Telepizza"
+        ],
+        "Kraj pochodzenia": "Włochy",
+        "Miasto powstania": "Neapol",
+        "Rodzaje pizzy": [
+            "Peperoni",
+            "Margaritha",
+            "Caprisciosa",
+            "4 Sery"
+        ]
+        
+    }
+]
+
+
+
